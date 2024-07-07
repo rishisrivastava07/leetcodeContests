@@ -13,4 +13,5 @@
  - [Weekly Contest 401](https://github.com/rishisrivastava07/leetcodeContests/tree/main/Weekly%20Contest%20401)
  - [Weekly Contest 402](https://github.com/rishisrivastava07/leetcodeContests/tree/main/Weekly%20Contest%20402)
  - [Weekly Contest 403](https://github.com/rishisrivastava07/leetcodeContests/tree/main/Weekly%20Contest%20403)
+ - [Weekly Contest 405](https://github.com/rishisrivastava07/leetcodeContests/tree/main/Weekly%20Contest%20405)
  
